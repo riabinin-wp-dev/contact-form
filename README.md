@@ -1,3 +1,3 @@
 Контактная форма для заказчика
-![image](https://github.com/user-attachments/assets/f4b1f2d3-9090-40cb-a171-33b82b2f0bb8)
+![image](https://github.com/user-attachments/assets/9c0866a5-9d27-4296-a8e3-8e62ccd05872)
 # contact-form
